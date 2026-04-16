@@ -1,5 +1,8 @@
 # 📚 BookInsight — AI-Powered Book Discovery Platform
 
+🌐 Live Demo: https://book-insight-platform.vercel.app
+⚙️ API: https://book-insight-platform.onrender.com/api/books/
+
 A full-stack web application with RAG (Retrieval-Augmented Generation) pipeline for intelligent book discovery and Q&A.
 
 > Built for the Ergosphere Solutions internship assignment.
