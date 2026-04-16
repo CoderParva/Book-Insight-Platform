@@ -10,9 +10,14 @@ A full-stack web application with RAG (Retrieval-Augmented Generation) pipeline 
 ---
 
 ## 🖼️ Screenshots
+<img width="2273" height="1359" alt="image" src="https://github.com/user-attachments/assets/0d8b3339-41f5-4331-9691-c03f6c8ef852" />
+<img width="2266" height="1346" alt="image" src="https://github.com/user-attachments/assets/0e64a60c-5101-4376-8b27-ec6d436223de" />
+<img width="2267" height="1360" alt="image" src="https://github.com/user-attachments/assets/314420e9-d8da-4632-8562-01a0dbe4a873" />
+<img width="2258" height="1356" alt="image" src="https://github.com/user-attachments/assets/94793d76-8603-4d53-a77f-757046a3f856" />
 
 
-> `Dashboard` | `Book Detail` | `Q&A Interface` | `AI Insights`
+
+
 
 ---
 
