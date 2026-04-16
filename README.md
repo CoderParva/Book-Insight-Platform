@@ -11,7 +11,7 @@ A full-stack web application with RAG (Retrieval-Augmented Generation) pipeline 
 
 ## 🖼️ Screenshots
 
-> *(Add 3–4 screenshots here after running the app)*
+
 > `Dashboard` | `Book Detail` | `Q&A Interface` | `AI Insights`
 
 ---
